@@ -8,5 +8,3 @@
   - Lab05: Recursive MIPS Functions
   - Lab06: Manipulating File System Objects
   - Lab07: A Simple Shell
-
-
