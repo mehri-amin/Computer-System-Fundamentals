@@ -1,0 +1,12 @@
+SPIM Version 8.0 of January 8, 2010
+Copyright 1990-2010, James R. Larus.
+All Rights Reserved.
+See the file README for a full copyright notice.
+Loaded: /usr/lib/spim/exceptions.s
+The following symbols are undefined:
+end_main
+exit_second_loop
+exit_third_loop
+neighbours
+
+# Iterations: [0x00400050]	0x14200000  bne $1, $0, 0 [end_main-0x0040004c]
