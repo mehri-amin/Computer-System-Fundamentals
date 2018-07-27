@@ -1,4 +1,4 @@
-Computer System Fundamentals Course
+<h1>Computer System Fundamentals Course</h1>
 
   - Lab01: Queue Simulation
   - Lab02: Long Bit-strings
